@@ -68,6 +68,7 @@
   color: #ffffff;
   font-weight: 600;
   transition: background-color 0.5s;
+  text-decoration: none;
 }
 
 .SearchBar-submit a:hover {
