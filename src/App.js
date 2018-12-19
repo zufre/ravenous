@@ -22,7 +22,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>ravenous</h1>
+        <h1>Cédric's Restaurant Finder</h1>
         <SearchBar searchYelp={this.searchYelp} />
         <BusinessList businesses={this.state.businesses} />
       </div>
